@@ -13,3 +13,5 @@ I'm Linkredible, a microbiology student with a passion for programming. I'm a se
 - Mainly **R** and **Python**
 
 ![Linkredible's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkredible&show_icons=true&theme=radical)
+
+<script src="game.js"></script>
