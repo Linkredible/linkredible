@@ -12,4 +12,4 @@ I'm [your name], a microbiology student with a passion for programming. I'm a se
 
 - Mainly **R** and **Python**
 
-[![Linkredible's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linkredible)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkredible&show_icons=true&theme=radical)
